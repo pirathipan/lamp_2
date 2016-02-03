@@ -1,5 +1,4 @@
 <?php
-
 require_once "banque.php";
 session_start();
 
